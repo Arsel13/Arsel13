@@ -7,10 +7,12 @@
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
 ![react](https://img.shields.io/badge/-vue.js-000?&style=for-the-badge&logo=vue.js)
+![react](https://img.shields.io/badge/-angular.js-000?&style=for-the-badge&logo=angular.js)
 ![next.js](https://img.shields.io/badge/-next.js-000?&style=for-the-badge&logo=next.js)
 ![node.js](https://img.shields.io/badge/-node.js-000?&style=for-the-badge&logo=node.js)
 ![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/-typescript-000?&style=for-the-badge&logo=typescript)
+![tailwindcss](https://img.shields.io/badge/-html5-000?&style=for-the-badge&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&style=for-the-badge&logo=tailwindcss)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&style=for-the-badge&logo=mongodb)
 ![npm](https://img.shields.io/badge/-npm-000?&style=for-the-badge&logo=npm)
