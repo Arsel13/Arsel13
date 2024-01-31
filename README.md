@@ -6,7 +6,7 @@
 
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
-![react](https://img.shields.io/badge/-vue-000?&style=for-the-badge&logo=vue)
+![react](https://img.shields.io/badge/-vue.js-000?&style=for-the-badge&logo=vue.js)
 ![next.js](https://img.shields.io/badge/-next.js-000?&style=for-the-badge&logo=next.js)
 ![node.js](https://img.shields.io/badge/-node.js-000?&style=for-the-badge&logo=node.js)
 ![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
