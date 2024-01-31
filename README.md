@@ -16,7 +16,6 @@
 ![tailwindcss](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
 ![tailwindcss](https://img.shields.io/badge/-bootstrap-000?&style=for-the-badge&logo=bootstrap)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&style=for-the-badge&logo=tailwindcss)
-![mongodb](https://img.shields.io/badge/-aws-000?&style=for-the-badge&logo=aws)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&style=for-the-badge&logo=mongodb)
 ![npm](https://img.shields.io/badge/-npm-000?&style=for-the-badge&logo=npm)
 ![linux](https://img.shields.io/badge/-linux-000?&style=for-the-badge&logo=linux)
