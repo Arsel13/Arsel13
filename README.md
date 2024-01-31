@@ -5,7 +5,6 @@
  ## Stacks
 
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
-![fedora](https://img.shields.io/badge/-fedora-000?&style=for-the-badge&logo=fedora)
 ![linux](https://img.shields.io/badge/-linux-000?&style=for-the-badge&logo=linux)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&style=for-the-badge&logo=tailwindcss)
 ![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
