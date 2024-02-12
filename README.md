@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Arslan+Tariq)](https://git.io/typing-svg)
 
- ## Stacks
+## Stacks
 
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
+
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
 ![vue](https://img.shields.io/badge/-vue.js-000?&style=for-the-badge&logo=vue.js)
 ![angular](https://img.shields.io/badge/-angular-000?&style=for-the-badge&logo=angular)
@@ -22,6 +23,11 @@
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![docker](https://img.shields.io/badge/-docker-000?&style=for-the-badge&logo=docker)
 
+### My Stats 🌱
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsel13)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Arsel13&margin-w=4&column=7)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arsel13&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
